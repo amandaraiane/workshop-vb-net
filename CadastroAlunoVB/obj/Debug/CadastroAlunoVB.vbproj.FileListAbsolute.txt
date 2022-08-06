@@ -11,3 +11,5 @@ C:\Users\facec.lab04\source\repos\NUTEC\CadastroAlunoVB\obj\Debug\CadastroAlunoV
 C:\Users\facec.lab04\source\repos\NUTEC\CadastroAlunoVB\obj\Debug\CadastroAlunoVB.exe
 C:\Users\facec.lab04\source\repos\NUTEC\CadastroAlunoVB\obj\Debug\CadastroAlunoVB.xml
 C:\Users\facec.lab04\source\repos\NUTEC\CadastroAlunoVB\obj\Debug\CadastroAlunoVB.pdb
+C:\Users\facec.lab04\source\repos\NUTEC\CadastroAlunoVB\obj\Debug\CadastroAlunoVB.frmCadastroAluno.resources
+C:\Users\facec.lab04\source\repos\NUTEC\CadastroAlunoVB\obj\Debug\CadastroAlunoVB.frmMenu.resources
