@@ -85,6 +85,7 @@ Partial Class Form1
         Me.Resultado.Name = "Resultado"
         Me.Resultado.Size = New System.Drawing.Size(100, 20)
         Me.Resultado.TabIndex = 6
+        Me.Resultado.Text = "0"
         '
         'Form1
         '
