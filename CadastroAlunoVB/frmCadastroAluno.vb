@@ -49,7 +49,7 @@
 
         Dim comando As New System.Data.SqlClient.SqlCommand
         comando.Connection = conexao
-        comando.CommandText = String.Format("Select * from Alunos")
+        comando.CommandText = String.Format("Select * from Alunos Where Nome like '%{0}%'", txtNomePesquisa.Text)
 
         Dim banco As New DataSet
         Dim adaptadordeDados As New System.Data.SqlClient.SqlDataAdapter(comando.CommandText, conexao)

@@ -288,18 +288,21 @@ Partial Class frmCadastroAluno
         '
         'colCodigo
         '
+        Me.colCodigo.DataPropertyName = "idAluno"
         Me.colCodigo.HeaderText = "Código"
         Me.colCodigo.Name = "colCodigo"
         Me.colCodigo.ReadOnly = True
         '
         'colNome
         '
+        Me.colNome.DataPropertyName = "Nome"
         Me.colNome.HeaderText = "Nome"
         Me.colNome.Name = "colNome"
         Me.colNome.ReadOnly = True
         '
         'colTelefone
         '
+        Me.colTelefone.DataPropertyName = "telefone"
         Me.colTelefone.HeaderText = "Telefone"
         Me.colTelefone.Name = "colTelefone"
         Me.colTelefone.ReadOnly = True
